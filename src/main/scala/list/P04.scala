@@ -3,7 +3,7 @@ package list
 import scala.annotation.tailrec
 
 /**
-  * P04 (*) Find the number of elements of a list without using List.size or List.length
+  * P04 (*) Find the number of elements of a list, without using List.size or List.length
   */
 object P04 {
   def measure[A](list: List[A]): Int = measure(list, 0)
