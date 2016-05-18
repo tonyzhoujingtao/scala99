@@ -12,7 +12,7 @@ object P03 {
     case head :: tail => k match {
       case 0 => Some(head)
       case a if a > 0 => kth(tail, k - 1)
-      case _ => throw new IllegalArgumentException
+      case _ => None
     }
   }
 }

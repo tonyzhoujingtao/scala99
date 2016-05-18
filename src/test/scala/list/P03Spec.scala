@@ -19,4 +19,9 @@ class P03Spec extends FlatSpec with ShouldMatchers {
     kth(list, 1) should be(None)
   }
 
+  it must "return None when the index negative" in {
+    val list = List(1)
+    kth(list, -1) should be(None)
+  }
+
 }
