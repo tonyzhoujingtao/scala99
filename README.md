@@ -2,7 +2,7 @@
 
 These are an adaptation of the Ninety-Nine Prolog Problems written by Werner Hett at the Berne University of Applied Sciences in Berne, Switzerland.
 
-I (**Tony Zhou**) have altered them to be more amenable to program and practice in Scala.
+I, [Tony Zhou](https://www.linkedin.com/in/tonyzhou), have altered them to be more amenable to program and practice in Scala.
 
 The problems have different levels of difficulty.
 
@@ -25,3 +25,10 @@ And then followed by a solution using built-in functions.
 
 Each of these solutions has a unit test. 
 You can find them [here](https://github.com/zjt1114/scala99/tree/master/src/main/scala/list).
+
+* P01 (*) Find the last element of a list.
+* P02 (*) Find the last but one element of a list.
+* P03 (*) Find the Kth element of a list.
+* P04 (*) Find the number of elements of a list.
+* P05 (*) Reverse a list.
+* P06 (*) Find out whether a list is a palindrome.
