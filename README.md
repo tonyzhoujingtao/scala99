@@ -24,7 +24,7 @@ To train myself in Scala, I try to provide a solution without using those functi
 And then followed by a solution using built-in functions.
 
 Each of these solutions has a unit test. 
-You can find them [here](https://github.com/zjt1114/scala99/tree/master/src/main/scala/list).
+You can find them [here](https://github.com/zjt1114/scala99/tree/master/src/test/scala/list).
 
 * P01 (*) Find the last element of a list.
 * P02 (*) Find the last but one element of a list.
