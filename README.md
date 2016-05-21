@@ -32,3 +32,5 @@ You can find them [here](https://github.com/zjt1114/scala99/tree/master/src/test
 * P04 (*) Find the number of elements of a list.
 * P05 (*) Reverse a list.
 * P06 (*) Find out whether a list is a palindrome.
+* P07 (**) Flatten a nested list structure.
+
