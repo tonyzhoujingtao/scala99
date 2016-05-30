@@ -7,13 +7,6 @@ import list.P09.pack
   */
 object P10 {
 
-  def compress[A](packList: List[List[A]]): List[(Int, A)] = packList match {
-    case Nil => Nil
-    case head :: tail => (head.size, head.head) :: compress(tail)
-  }
-
-  def encode[A](list: List[A]): List[(Int, A)] = {
-    compress(pack(list))
-  }
+  def encode[A](list: List[A]): List[(Int, A)] = pack(list) map { e => (e.length, e.head) }
 
 }
