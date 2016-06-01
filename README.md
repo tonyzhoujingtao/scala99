@@ -37,5 +37,4 @@ You can find them [here](https://github.com/zjt1114/scala99/tree/master/src/test
 * P09 (**) Pack consecutive duplicates of list elements into sublists.
 * P10 (*) Run-length encoding of a list.
 * P11 (*) Modified run-length encoding.
-
-
+* P12 (**) Decode a run-length encoded list.
