@@ -1,8 +1,13 @@
 # 99 Scala Problems
 
-These are an adaptation of the Ninety-Nine Prolog Problems written by Werner Hett at the Berne University of Applied Sciences in Berne, Switzerland.
+This is a clone from Phil! Gold's 99 Scala problems, except that I, 
+[Tony Zhou](https://www.linkedin.com/in/tonyzhou), have NOT copied the 
+answers but used the problems as a whetstone to sharpen my Scala skills.
 
-I, [Tony Zhou](https://www.linkedin.com/in/tonyzhou), have altered them to be more amenable to program and practice in Scala.
+Moreover, all solutions are developed in a Test Driven Development manner.
+Therefore, there's one corresponding test suite for each problem.
+You can not only verify the correctness of each solution, but also use 
+the tests as requirement specifications of each problem.
 
 The problems have different levels of difficulty.
 
