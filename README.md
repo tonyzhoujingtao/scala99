@@ -2,12 +2,12 @@
 
 This is a clone from Phil! Gold's 99 Scala problems, except that I, 
 [Tony Zhou](https://www.linkedin.com/in/tonyzhou), have NOT copied the 
-answers but used the problems as a whetstone to sharpen my Scala skills.
+answers but used the problems as a **_whetstone_** to sharpen my Scala skills.
 
-Moreover, all solutions are developed in a Test Driven Development manner.
+Moreover, all solutions are developed in a **_Test Driven Development_** manner.
 Therefore, there's one corresponding test suite for each problem.
 You can not only verify the correctness of each solution, but also use 
-the tests as requirement specifications of each problem.
+the tests as **_requirement specifications_** of each problem.
 
 The problems have different levels of difficulty.
 
