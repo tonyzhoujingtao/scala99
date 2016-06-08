@@ -13,7 +13,7 @@ The problems have different levels of difficulty.
 
 1. Those marked with a single asterisk (*) are easy.
 2. Problems marked with two asterisks (**) are of intermediate difficulty.
-3. Problems marked with three asterisks (***) are more difficult.
+3. Problems marked with three asterisks (***) are most difficult.
 
 
 ## [Working with lists](https://github.com/zjt1114/scala99/tree/master/src/main/scala/list)
@@ -46,4 +46,5 @@ You can find them [here](https://github.com/zjt1114/scala99/tree/master/src/test
 * P13 (**) Run-length encoding of a list (direct solution).
 * P14 (*) Duplicate the elements of a list.
 * P15 (**) Duplicate the elements of a list a given number of times.
+* P16 (**) Drop every Nth element from a list.
 
