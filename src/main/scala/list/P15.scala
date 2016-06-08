@@ -5,9 +5,8 @@ package list
  */
 object P15 {
 
-  def duplicateN[A](duplications: Int, list: List[A]): List[A] = list match {
-    case Nil => Nil
-    case head :: tail => List.fill(duplications)(head) ::: duplicateN(duplications, tail)
+  def duplicateN[A](duplications: Int, list: List[A]): List[A] = list flatMap {
+    List.fill(duplications)(_)
   }
 
 }
