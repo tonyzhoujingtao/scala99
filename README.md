@@ -48,4 +48,4 @@ You can find them [here](https://github.com/zjt1114/scala99/tree/master/src/test
 * P15 (**) Duplicate the elements of a list a given number of times.
 * P16 (**) Drop every Nth element from a list.
 * P17 (*) Split a list into two parts.
-
+* P18 (**) Extract a slice from a list.
