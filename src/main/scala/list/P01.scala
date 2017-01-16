@@ -6,7 +6,7 @@ package list
 object P01 {
   def last[A](list: List[A]): Option[A] = list match {
     case a :: Nil => Some(a)
-    case a :: tail => last(tail)
+    case _ :: tail => last(tail)
     case _ => None
   }
 }
